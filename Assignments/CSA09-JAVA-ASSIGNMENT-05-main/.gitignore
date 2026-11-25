@@ -1,0 +1,9 @@
+out/
+*.class
+target/
+*.log
+*.tmp
+.env
+credentials.properties
+config/db.properties
+build-out/
